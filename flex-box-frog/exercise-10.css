@@ -1,0 +1,10 @@
+/**
+    Link para o exercicio: https://flexboxfroggy.com/
+    Level 10
+*/
+
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
